@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.idigital.config"},{"l":"com.idigital.controller"},{"l":"com.idigital.dao"},{"l":"com.idigital.electricitybillingsystemrest"},{"l":"com.idigital.entity"},{"l":"com.idigital.exception"},{"l":"com.idigital.security"},{"l":"com.idigital.service"}];updateSearchResults();
